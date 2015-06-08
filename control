@@ -1,0 +1,10 @@
+Package: ws.hbang.dedirect
+Name: DeDirect
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Block malicious Mail redirects
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Support: https://www.hbang.ws/faq
+Section: Tweaks
